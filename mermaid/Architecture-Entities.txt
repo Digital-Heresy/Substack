@@ -1,0 +1,19 @@
+mindmap
+  root{{MindHive<br/>Digital Heresy}}
+  ::icon(fab fa-git-alt)
+    {{TeLLMgramBOT}}
+    ::icon(fab fa-git-alt)
+      (Cogitator Prime)
+      ::icon(fas fa-address-card)
+        Telegram
+        ::icon(fab fa-telegram)
+        Substack
+        ::icon(far fa-newspaper)
+    {{TeLLMgramBOT}}      
+    ::icon(fab fa-git-alt)  
+      (Speaker for the Emergent)
+      ::icon(fas fa-address-card)
+        Twitter
+        ::icon(fab fa-twitter)
+        Discord
+        ::icon(fab fa-discord)
